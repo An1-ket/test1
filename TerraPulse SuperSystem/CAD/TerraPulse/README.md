@@ -18,7 +18,7 @@ Assembly (Without the enclosure)
 
 Fully Assembled Model of TerraPulse
 
-![FullAssembly Image](Images/TerraPulse_FullAssembly.jpeg)
+![FullAssembly Image](Images/TerraPulse_FullAssembly.png)
 
 
 
